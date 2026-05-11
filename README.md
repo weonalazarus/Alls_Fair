@@ -72,7 +72,7 @@ The scripts in `scripts/` regenerate the raw responses. They require local model
 
 ```bash
 # Claude
-export ANTHROPIC_API_KEY="sk-ant-..."
+export ANTHROPIC_API_KEY=""
 python scripts/generate_responses_claude.py
 
 # Local models (llama.cpp) — edit MODEL_PATH at the top of each script first
