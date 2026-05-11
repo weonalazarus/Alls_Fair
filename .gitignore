@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Claude Code local settings
+.claude/
+
+# Secrets — never commit
+.env
+*.env
+api_key*
+*api_key*
+
+# Large model files
+*.gguf
+*.bin
+*.safetensors
