@@ -1,5 +1,5 @@
-## DSCI 531 - Fairness in Artificial Intelligence
-# Team 7: Alls Fair 
+# DSCI 531 - Fairness in Artificial Intelligence
+## Team 7: Alls Fair 
 
 An empirical study of demographic bias in LLM-generated creative writing. Four models (Claude Sonnet 4.6, Mistral 7B, Qwen 1.5 4B, ChatGPT) generate movie opening scenes under two prompt conditions, and the protagonists are coded for gender, race, and age. The notebook quantifies distributions, prompt effects, and statistical significance.
 
